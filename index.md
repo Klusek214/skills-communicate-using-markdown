@@ -22,3 +22,7 @@ AS
 sql_statement
 GO;
 ```
+- [x] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [ ] Introduce myself to the world
+- [ ] finish this course
