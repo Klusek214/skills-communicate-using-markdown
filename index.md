@@ -4,3 +4,21 @@
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 ![an image](https://octodex.github.com/images/saritocat.png)
+
+
+``` javascript
+var myVar = "Hello, world!";
+```
+
+``` c++
+int a = 59;
+cout.setf( ios::showpos );
+cout << a << endl; //+59
+```
+
+``` sql
+CREATE PROCEDURE procedure_name
+AS
+sql_statement
+GO;
+```
